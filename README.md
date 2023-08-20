@@ -11,7 +11,7 @@ The YouTube playlist length calculator extension provides instant and accurate e
 ### Extension Testing Previews:
 ![In chrome](<Testing extension chrome.png>)
 
-![In chrome](<Testing extension chrome.png>)
+![In chrome](<Testing on Firefox.png>)
 
 
 
