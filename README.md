@@ -7,3 +7,11 @@ The YouTube playlist length calculator extension provides instant and accurate e
 * **Playlist URL Input:** Users can input the URL of the YouTube playlist they want to calculate.
 * **Fetch Playlist Data:** The tool fetches the video data from the playlist using the provided URL.
 * **Display Results:** Presents the total number of all videos, average length, total duration of the playlist if watch it on 1.25x, 1.5x, 1.75x or 2.00x speed.
+
+### Extension Testing Previews:
+![In chrome](<Testing extension chrome.png>)
+
+![In chrome](<Testing extension chrome.png>)
+
+
+
